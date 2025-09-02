@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Update the domain below to your production domain
+Sitemap: http://www.cashclub.ae/sitemap.xml
+
+
